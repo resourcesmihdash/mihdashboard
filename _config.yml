@@ -1,0 +1,5 @@
+title: "MIH Programs in Massachusetts"
+description: "A site to display MIH programs using Google Maps"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourusername.github.io" # the base hostname & protocol for your site
+google_maps_api_key: "AIzaSyDZjFbXYPvYTUH8SRhEv8P4abvmz_nbnQk"
